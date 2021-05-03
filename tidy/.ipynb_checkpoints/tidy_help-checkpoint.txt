@@ -1,7 +1,0 @@
-A Python utility to wrap the htmltidy binary
-
-Methods:
-
-tidy(html) - Standard tidy
-pretty(html) - "Pretty printed" with indention
-compressed(html) - Remove line breaks and minimize whitespace
